@@ -4,10 +4,10 @@
     "web": {
       "bundler": "metro"
     },
+    "name": "jobsift",
+    "slug": "jobsift",
     "plugins": [
       "expo-router"
-    ],
-    "name": "react-native-jobs",
-    "slug": "react-native-jobs"
+    ]
   }
 }
